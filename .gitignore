@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+**/packages/*
+!**/packages/build/
+
+# Logs
+*.log
+
+# User-specific files
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.vspx
+*.pdb
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Other files
+*.tss
+*.tsq
+*.tmp
+*.user
+*.vspscc
+*.vssscc
+ 
